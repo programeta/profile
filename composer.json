@@ -10,7 +10,7 @@
     "drupal/nttdata_admin": "^1",
     "drupal/admin_toolbar": "^3",
     "drupal/front": "^10",
-    "drupal/legal": "^.",
+    "drupal/legal": "^3",
     "drupal/token": "^1.14",
     "drupal/antibot": "^2"
   },
